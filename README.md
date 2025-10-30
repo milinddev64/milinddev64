@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Milind Murmu</h1>
-<h3 align="center">Aspiring to be a Software Developer.</h3>
+<h3 align="center">Software Developer at Infosys Ltd.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milinddev64&label=Profile%20views&color=0e75b6&style=flat" alt="milinddev64" /> </p>
 
